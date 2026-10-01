@@ -1,0 +1,24 @@
+{
+"name": "Pallavi Hospital",
+"short_name": "Pallavi",
+"description": "Pallavi Super Speciality Dental & Homeopathy Hospital - Allagadda",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#1e3a8a",
+"orientation": "portrait",
+"icons": [
+{
+"src": "https://pub-42175027ec924e93a5e53a4ea93feb93.r2.dev/MAIN-LOGO-FEVICON-ICON.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any maskable"
+},
+{
+"src": "https://pub-42175027ec924e93a5e53a4ea93feb93.r2.dev/MAIN-LOGO-FEVICON-ICON.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any maskable"
+}
+]
+}
